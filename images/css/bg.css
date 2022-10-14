@@ -1,0 +1,33 @@
+body {
+    background-image: url('./images/dance.jpg');
+    background-size: cover;
+    /*background-repeat: no-repeat*/
+    opacity: .5;
+}
+
+p {
+    color: aqua;
+}
+
+button {
+    background-color: aliceblue;
+    color: blue;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+button:hover {
+    background-color: blue;
+    color: aliceblue;
+}
+
+p:hover {
+    color: bisque;
+}
+
+h1 {
+    color: chartreuse;
+    
+}
+span{color: burlywood;}

@@ -1,0 +1,64 @@
+h2 {
+    color: cornsilk;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+.row {
+    
+    height: 600px;
+    width: 1487px;
+    position: relative;
+    background-color:black;
+}
+
+.cls {
+    width: 297px; 
+    height: 600px;
+    background-color: black;
+    position: absolute;
+}
+
+img {
+    height: 240px;
+    width: 250px;
+}
+
+h3 {
+    color: aqua;
+    text-align: center;
+}
+p {
+    color: antiquewhite;
+    font-size: large;
+    font-style: italic;
+    text-align:;
+}
+.col-1 {
+    left: 0px;
+}
+
+.col-2 {
+    left:300px;
+}
+
+.col-3 {
+    left: 600px;
+}
+.col-4{left: 900px;}
+.col-5{
+    left: 1201px;
+}
+.ratebox{position: relative;
+border: 1.5px solid white;
+height: 16px;
+padding: 5px;
+border-radius: 20px;
+background-color: cadetblue;
+width:260px;}
+.imdb{position: absolute;}
+.rate{position: absolute;
+right: 0px;}

@@ -1,0 +1,15 @@
+.col{
+    border: black 3px dotted;
+    top: 100px;
+}
+.col-1{height: 212px;
+width: 300px;
+background-color: cornflowerblue;
+position: absolute;
+left: 45%;}
+.col-2{height: 300px;
+width: 400px;
+background-color: chartreuse;
+position: absolute;
+left: 20%;}
+body{background-color:cadetblue;}

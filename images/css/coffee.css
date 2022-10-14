@@ -1,0 +1,84 @@
+header {
+    width: 100%;
+    height: 52px;
+    background-color: rgb(187, 163, 145);
+    margin-top: -8px
+    ;
+}
+
+div {
+    width: 43%;
+    height: 23px;
+    background-color: black;
+    color: turquoise;
+    margin-top: -40px;
+    margin-left: 10px;
+    background-color: rgb(187, 163, 145);
+    color: black;
+    font-size: 9px;
+
+}
+
+#more {
+    margin-top: 2%;
+    margin-left: 140px;
+    width: 21%;
+    height: 18px;
+}
+
+#p {
+    width: 20%;
+    height: 23px;
+    background-color: black;
+    color: black;
+    font-size: 10px;
+    font-style: italic;
+    margin-top: -20px;
+    margin-left: 400px;
+    background-color: rgb(187, 163, 145);
+    ;
+
+}
+pre{font}
+
+#j {
+    width: 100px;
+    height: 23px;
+
+    margin-left: 498px;
+    margin-top: -22px;
+    background-color:rgb(187, 163, 145);
+    
+    color: aqua;
+    font-size: 9px;
+}
+a{color: black;
+font-size: 9px;}
+
+
+
+button {
+    margin-left: 590px;
+    width: 59px;
+    margin-top: 7%;
+    font-size: 9px;
+    background-color: #d62300;
+    border: rgb(187, 163, 145);
+    padding: 4px 4px;
+    border-radius: 13px;
+    color: aliceblue;
+    
+    
+}
+#o{margin-left: 673px;
+    width: 59px;
+    margin-top: 15%;
+    font-size: 9px;
+    background-color: #d62300;
+    border: rgb(187, 163, 145);
+    padding: 4px 4px;
+    border-radius: 13px;
+    color: aliceblue;
+    }
+button:hover{background-color: aliceblue;
+color: #d62300;}

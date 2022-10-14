@@ -1,0 +1,646 @@
+@import url('https://fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&family=Comforter+Brush&family=Dancing+Script&family=Passions+Conflict&family=Play&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Bilbo+Swash+Caps&family=Comforter+Brush&family=Dancing+Script&family=Niconne&family=Passions+Conflict&family=Play&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Bilbo+Swash+Caps&family=Comforter+Brush&family=Dancing+Script&family=Lato:ital,wght@1,300&family=Niconne&family=Passions+Conflict&family=Play&family=Shadows+Into+Light&display=swap');
+
+header {
+    width: 100%;
+    height: 45px;
+    background-color: black;
+    position: sticky;
+    position: relative;
+    top: 0px;
+
+}
+
+.first {
+    width: 100%;
+    height: 450px;
+    position: relative;
+    background-color: black;
+}
+
+.hd {
+    color: brown;
+    font-size: 10px;
+    position: absolute;
+    left: 350px;
+    top: 19px;
+    text-decoration:none;
+    
+}
+.hd:hover{text-decoration:underline;}
+
+.hd2 {
+    color: brown;
+    font-size: 10px;
+    position: absolute;
+    left: 390px;
+    top: 19px;
+    text-decoration: none;
+}
+.hd2:hover{text-decoration: underline;}
+.hd3 {
+    color: brown;
+    font-size: 10px;
+    position: absolute;
+    left: 430px;
+    top: 19px;
+    text-decoration: none;
+}
+.hd3:hover{text-decoration: underline;}
+.hd4 {
+    color: brown;
+    font-size: 10px;
+    position: absolute;
+    left: 470px;
+    top: 19px;
+    text-decoration: none;
+}
+.hd4:hover{text-decoration: underline;}
+
+.hd5 {
+    color: brown;
+    font-size: 10px;
+    position: absolute;
+    left: 510px;
+    top: 19px;
+    text-decoration: none;
+}
+.hd5:hover{text-decoration: underline;}
+img {
+    width: 30px;
+    height: 30px;
+    margin-top: -37px;
+    margin-left: 49px;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.div1 {
+    width: 100%;
+    height: 450px;
+    background-image: url("./images/1page1.jpeg");
+    background-size: 100% 450px;
+    background-repeat: no-repeat;
+    margin-top: 0px;
+    background-color: brown;
+}
+
+.div2 {
+    width: 40%;
+    height: 95px;
+    color: black;
+    position: absolute;
+    top: 30px;
+}
+
+#B {
+    width: 70PX;
+    margin-left: 50PX;
+    position: absolute;
+    top: 170px;
+    left: 30px;
+}
+
+button {
+    border-radius: 8PX;
+    border: bisque;
+    width: 76PX;
+    height: 20PX;
+    margin-top: -5PX;
+    background-color: black;
+    color: bisque;
+    margin-left: 17PX;
+    font-size: 6PX;
+    font-family: alternate-gothic-no-3-d, sans-serif;
+    ;
+
+}
+
+button:hover {
+    color: black;
+    background-color: bisque;
+}
+
+
+p {
+    font-size: 50px;
+    font-family: 'Comforter Brush', cursive;
+    margin-left: 30px;
+
+}
+
+#f {
+    font-size: 18px;
+    font-family: 'Play', sans-serif;
+    margin-left: 64px;
+    margin-top: -64px;
+}
+
+.div3 {
+    width: 100%;
+    height: 400px;
+    background-color: bisque;
+    position: relative;
+    top: 0px;
+
+
+}
+
+.image {
+    width: 63%;
+    height: 69%;
+    margin-top: 15px;
+    margin-left: 60px;
+}
+
+.w {
+    color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 2px 2px 3px violet;
+    margin-top: 75px;
+    margin-left: 137PX;
+}
+
+.div4 {
+    margin-top: 20px;
+    position: absolute;
+    top: -25px;
+    left: 188px;
+}
+
+.div5 {
+    margin-top: 40px;
+    position: absoute;
+}
+
+.c {
+    color: black;
+    font-size: 15px;
+    margin-top: 40px;
+    position: absolute;
+    top: 80px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.v {
+    position: absolute;
+    left: 45%;
+    top: 223px;
+}
+
+hr {
+    border-top: 1px dashed bisque(255, 0, 0, 0.192);
+    margin-top: -22px;
+}
+
+.div6 {
+    background-color: bisque;
+    width: 100%;
+    height: 400px;
+    position: relative;
+}
+
+.div7 {
+    width: 883px;
+    height: 356px;
+    top: 46px;
+    position: absolute;
+}
+
+/* .div7 {
+    width: 50%;
+    height: 330px;
+    background-image: url();
+    background-color: black;
+} */
+
+.div7img {
+    display: block;
+    margin-top: 20px;
+    width: 441px;
+    height: 330px;
+    margin-left: 0px;
+}
+
+/* width: 50%;
+    height: 350px;
+} */
+.div8 {
+    width: 288px;
+    height: 300px;
+    background-color: bisque;
+    position: absolute;
+    left: 458px;
+    top: 80px;
+    /* top: 15px; */
+    /* background-image: url("./form.jpg"); */
+
+}
+
+.username {
+    color: black;
+    font-size: 12px;
+    top: 88px;
+    left: 50px;
+    position: absolute;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    ;
+}
+
+.password {
+    color: black;
+    font-size: 12px;
+    position: absolute;
+    font-family: 'Shadows Into Light', cursive;
+    ;
+    top: 130px;
+    left: 50px;
+    text-align: center;
+}
+
+::placeholder {
+    font-size: 7px;
+    text-align: center;
+}
+
+.fpp {
+    left: 108px;
+    color: rgb(7, 6, 6);
+    font-size: 10px;
+    margin-top: 210px;
+    font-family: sans-serif
+}
+
+.signup1 {
+    position: absolute;
+    top: 190px;
+    left: 78px;
+}
+
+.signup2 {
+    position: absolute;
+    top: 250px;
+    left: 78px;
+}
+
+/* .coffeeform{ width: 40%;
+    height: 300px;} */
+
+.div9 {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    margin-top: -199px;
+}
+
+.row {
+    width: 100%;
+
+    background-color: bisque;
+    position: relative;
+    top: 50px;
+    height: 265px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.new {
+    width: 100%;
+    height: 580px;
+    background-color: black;
+    position: relative;
+    top: 81px;
+}
+
+.d {
+    font-size: 20PX;
+    color: black;
+    position: absolute;
+    left: 50px;
+    top: 20px;
+    font-family: 'Alex Brush', cursive;
+}
+
+span {
+    color: rgb(165, 42, 42);
+    font-size: 25px;
+    position: absolute;
+    left: 60px;
+    top: 30px;
+}
+
+.dont {
+    position: absolute;
+    top: 210px;
+    left: 60px;
+    color: black;
+}
+
+.m {
+    font-size: 9px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* .top {
+    font-family: 'Dancing Script', cursive;
+    ;
+    top: -55px;
+    color: aqua;
+    position: absolute;
+}
+
+.img1 ,.img2 , .img3 , .img4{
+    height: 240px;
+    width: 250px;
+    border: 2px dashed black;
+    border-radius: 15px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+.image1{
+    width: 250px;
+    height: 240px;
+    margin-top: 1px;
+    margin-left: 0px;
+    border-radius:15px ;
+}
+.overlay {
+    position: absolute;
+    top: 14px;
+    bottom: 10px;
+    left: px;
+    height: 239px;
+    width: 249px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color:#036634;
+    border-radius: 15px;
+  }
+.img1:hover .overlay{
+    opacity: 1;
+    box-shadow: 2px 2px 4px #000000;
+  }
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+} */
+.next {
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    position: relative;
+    top: -5px;
+}
+
+.top {
+    font-family: 'Dancing script', cursive;
+
+    ;
+    font-size: 35px;
+    padding-left: 23px;
+    color: rgb(0, 247, 255);
+}
+
+.pics {
+    width: 24%;
+    height: 140px;
+    background-color: aqua;
+    margin-left: 20px;
+}
+
+.img1 {
+    width: 100%;
+    height: 140px;
+    margin-top: 0px;
+    margin-left: 0%;
+}
+
+.pics2 {
+    width: 25%;
+    height: 140px;
+    background-color: aqua;
+    margin-left: 276px;
+    margin-top: -140px;
+}
+
+.img2 {
+    width: 100%;
+    height: 140px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.pics3 {
+    width: 25%;
+    height: 140px;
+    background-color: aqua;
+    margin-left: 537px;
+    margin-top: -140px;
+
+}
+
+.img3 {
+    width: 100%;
+    height: 140px;
+    margin-top: 0px;
+    margin-left: 0px;
+
+
+}
+
+.n1 {
+    color: aqua;
+    font-size: 15px;
+    font-family: 'Niconne', cursive;
+    margin-top: 2px;
+    margin-left: 90px;
+
+}
+
+.n2 {
+    color: aqua;
+    font-size: 15px;
+    font-family: 'Niconne', cursive;
+    margin-top: -35px;
+    margin-left: 340px;
+}
+
+.n3 {
+    color: aqua;
+    font-size: 15px;
+    font-family: 'Niconne', cursive;
+    margin-top: -35px;
+    margin-left: 544px;
+}
+
+.b2 {
+    width: 56px;
+    height: 20px;
+    background-color: bisque;
+    color: black;
+    margin-left: 340px;
+    margin-top: 20px;
+}
+.b2:hover{color: aqua;
+background-color: black;}
+
+.j {
+    width: 100%;
+    height: 300px;
+    background-color: cadetblue;
+    position: relative;
+    top: -5px;
+}
+
+H2 {
+    font-size: 30px;
+    color: black;
+    font-family: 'Comforter Brush', cursive;
+    position: absolute;
+    left: 290px;
+    top: 18PX;
+}
+
+H3 {
+    font-size: 10px;
+    color: black;
+    position: absolute;
+    left: 340PX;
+    top: 65PX;
+}
+
+.D {
+    width: 110PX;
+    height: 100px;
+    background-color: cadetblue;
+    position: absolute;
+    top: 100px;
+    left: 160px;
+}
+
+a {
+    color: black;
+    font-size: 15PX;
+    font-family: 'Lato', sans-serif;
+    ;
+}
+
+.di {
+    color: black;
+    font-size: 10px;
+    text-decoration: none;
+}
+.di:hover{text-decoration: underline;}
+.I {
+    width: 110PX;
+    height: 100px;
+    background-color: cadetblue;
+    position: absolute;
+    top: 100px;
+    left: 260px;
+}
+
+.V {
+    width: 110PX;
+    height: 100px;
+    background-color: cadetblue;
+    position: absolute;
+    top: 100px;
+    left: 380px;
+}
+
+.MM {
+    width: 110PX;
+    height: 100px;
+    background-color: cadetblue;
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+
+.hrr {
+    border: 9px solid black;
+}
+
+.foot {
+    width: 100%;
+    height: 200px;
+    background-color: lavenderblush;
+    position: relative;
+    top: -8px;
+}
+
+.foot1 {
+    width: 190px;
+    height: 100px;
+    background-color: lavenderblush;
+    font-size: 10px;
+    padding-left: 15px;
+    position: absolute;
+    left: 40px;
+    top: 20px;
+
+}
+
+.last1 {
+    color: black;
+    font-style: italic;
+    text-decoration: ;
+}
+
+.foot2 {
+    width: 190px;
+    height: 100px;
+    background-color: lavenderblush;
+    font-size: 10px;
+    padding-left: 15px;
+    position: absolute;
+    left: 280px;
+    top: 20px;
+    text-decoration: none;
+}
+
+.x {
+    font-size: 10PX;
+    text-decoration: none;
+}
+.x:hover{text-decoration: underline;}
+
+.foot3 {
+    width: 190px;
+    height: 100px;
+    background-color: lavenderblush;
+    font-size: 10px;
+    padding-left: 15px;
+    position: absolute;
+    left: 400px;
+    top: 20px;
+    text-decoration: none;
+}
+
+.foot4 {
+    width: 190px;
+    height: 100px;
+    background-color: lavenderblush;
+    font-size: 10px;
+    padding-left: 15px;
+    position: absolute;
+    left: 550px;
+    top: 20px;
+    text-decoration: none;
+}
+.icons{position: absolute;
+top: 160px;
+left: 330px;}
